@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    margin: 0;
+}
+p{
+    text-align: center;
+    margin: 0;
+}
+.hea{
+    height: 60px;
+    width: 1400px;
+}
+.espa{
+    background-color:  lightskyblue;
+    height: 50px;
+    width: 1400px;
+}
+.menu{
+    height: 60px;
+    width: 1400px;
+
+}
+.logo{
+    height: 60px;
+    width: 150px;
+    float: left;
+}
+nav{
+    height: 60px;
+    width: 550px;
+    float: right;
+}
+
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li a{
+    padding: 6px;
+    font-size: 25px;
+}
+img{
+    width: 100%;
+}
+.footer {
+    background: #0b0808;
+    padding-top: 90px;
+}
