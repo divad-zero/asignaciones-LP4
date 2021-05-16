@@ -1,0 +1,62 @@
+
+
+
+header {
+background-color: red;
+padding: 1px 0 0;
+height: 80px;
+width: 1420px;
+
+}
+h1 {
+text-align: center;
+margin: 0;
+
+}
+nav {
+background-color: orange;
+padding: 1px 0 0;
+height: 80px;
+width: 1420px;
+
+}
+
+
+.sec{
+    height: 300px;
+    width: 900px;
+    float: left;
+    
+}
+section{
+    background-color: yellow;
+    height: 300px;
+    width: 1000px;
+}
+article{
+    background-color: greenyellow;
+    
+    height: 100px;
+    width: 900px;
+    margin: 20px 20px 20px 20px;
+}
+
+
+.asi{
+    height: 300px;
+    width: 420px;
+    float: right;
+}
+aside{
+    background-color: dodgerblue;
+    height: 300px;
+    width: 420px;
+    
+}
+
+footer {
+background-color: purple;
+height: 80px;
+width: 1420px;
+margin-top: 300px;
+}
